@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction
-_Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs. [IBM Sample Data Sets]
-# WEB DEPLOYMENT_
+_Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs. [IBM Sample Data Sets]_
+# WEB DEPLOYMENT
 Disini : https://hafidz-churn-model.herokuapp.com/
 # Library yang Digunakan
 Pada analisis kali ini, akan digunakan beberapa package yang membantu kita dalam melakukan analisis data yaitu:
