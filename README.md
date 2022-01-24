@@ -1,4 +1,5 @@
 # Customer-Churn-Prediction
+_"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 # WEB DEPLOYMENT
 Disini : https://hafidz-churn-model.herokuapp.com/
 # Library yang Digunakan
@@ -9,8 +10,6 @@ Seaborn membangun plot di atas Matplotlib dan memperkenalkan tipe plot tambahan.
 Tensorflow sebagai library untuk implementasi deep learning
 ## Data Sources
 Silakan download dataset [disini](https://www.kaggle.com/blastchar/telco-customer-churn)
-# Context
-"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 
 # Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
